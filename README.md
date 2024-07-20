@@ -30,8 +30,5 @@ I'm always open to collaborating on projects regarless of coding language and ca
 ## 💬 Languages and Tools
 ![Languages and Tools](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
 ![Languages and Tools](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-![Languages and Tools](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
 ![Languages and Tools](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![Languages and Tools](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![Languages and Tools](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=232F3E)
 

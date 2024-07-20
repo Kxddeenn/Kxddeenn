@@ -29,8 +29,6 @@ The project also consisted of uploading files and data to sharepoint automatical
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxddeenn&layout=compact&theme=radical)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kxddeenn&theme=radical)
-
 (Stats will be a little bit off considering that I work in Azure Dev Ops currently)
 
 ## 🤝 Let's Collaborate

@@ -35,7 +35,10 @@ The project also consisted of uploading files and data to sharepoint automatical
 I'm always open to collaborating on projects regarless of coding language and capability. Feel free to reach out if you have an interesting idea or if you'd like to work together on something!
 
 ## 💬 Languages and Tools
-![Languages and Tools](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
-![Languages and Tools](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-![Languages and Tools](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
+![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
+![Power Apps](https://img.shields.io/badge/-Power%20Apps-333333?style=flat&logo=power-apps&logoColor=742774)
+
 

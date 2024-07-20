@@ -39,8 +39,7 @@ I'm always open to collaborating on projects regarless of coding language and ca
 ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
-![Power Apps](https://img.shields.io/badge/-Power%20Apps-333333?style=flat&logo=power-apps&logoColor=742774)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-333333?style=flat&logo=power-automate&logoColor=0066FF)
+![Power Fx](https://img.shields.io/badge/-Power%20Fx-333333?style=flat&logo=power-fx&logoColor=742774)
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 

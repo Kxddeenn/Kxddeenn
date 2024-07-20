@@ -40,5 +40,7 @@ I'm always open to collaborating on projects regarless of coding language and ca
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
 ![Power Apps](https://img.shields.io/badge/-Power%20Apps-333333?style=flat&logo=power-apps&logoColor=742774)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-333333?style=flat&logo=power-automate&logoColor=0066FF)
+
 
 

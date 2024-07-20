@@ -24,6 +24,11 @@ The project also consisted of uploading files and data to sharepoint automatical
 - Email: kaden.neild@gmail.com 
 - LinkedIn: [KadenNeild](https://www.linkedin.com/in/kaden-neild-2a93a0295/)
 
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Kxddeenn&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxddeenn&layout=compact&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kxddeenn&theme=radical)
+
 ## 🤝 Let's Collaborate
 I'm always open to collaborating on projects regarless of coding language and capability. Feel free to reach out if you have an interesting idea or if you'd like to work together on something!
 

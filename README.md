@@ -31,6 +31,8 @@ The project also consisted of uploading files and data to sharepoint automatical
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kxddeenn&theme=radical)
 
+(Stats will be a little bit off considering that I work in Azure Dev Ops currently)
+
 ## 🤝 Let's Collaborate
 I'm always open to collaborating on projects regarless of coding language and capability. Feel free to reach out if you have an interesting idea or if you'd like to work together on something!
 

@@ -17,7 +17,8 @@ The project also consisted of uploading files and data to sharepoint automatical
   This improved my overall development in **Power Px**, a new programming language exclusively for Microsoft Applications. 
 
 ## 🌱 Learning and Growing
-- Currently exploring Vue.js, improving my Javascript and Node.js skillset. 
+- Currently exploring Vue.js, improving my Javascript and Node.js skillset.
+- Studying C and C++ in school. 
 - Improving my code readability and documentation. 
 
 ## 📫 How to Reach Me

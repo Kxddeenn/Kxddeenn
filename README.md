@@ -32,9 +32,6 @@ The project also consisted of uploading files and data to sharepoint automatical
 
 (Stats will be a little bit off considering that I work in Azure Dev Ops currently)
 
-## 🤝 Let's Collaborate
-I'm always open to collaborating on projects regarless of coding language and capability. Feel free to reach out if you have an interesting idea or if you'd like to work together on something!
-
 ## 💬 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
 ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)

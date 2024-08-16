@@ -22,8 +22,8 @@ The project also consisted of uploading files and data to sharepoint automatical
 - Improving my code readability and documentation. 
 
 ## 📫 How to Reach Me
-- Email: kaden.neild@gmail.com 
-- LinkedIn: [Kaden_Neild](https://www.linkedin.com/in/kaden-neild-2a93a0295/)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - kaden.neild@gmail.com 
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Kaden Neild](https://www.linkedin.com/in/kaden-neild-2a93a0295/)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kxddeenn&show_icons=true&theme=default)

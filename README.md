@@ -22,7 +22,7 @@ The project also consisted of uploading files and data to sharepoint automatical
 - Improving my code readability and documentation. 
 
 ## 📫 How to Reach Me
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - kaden.neild@gmail.com 
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) - kaden.neild@gmail.com 
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Kaden Neild](https://www.linkedin.com/in/kaden-neild-2a93a0295/)
 
 ## 📈 GitHub Stats

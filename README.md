@@ -5,7 +5,7 @@ I have currently 1 year of experience in JavaScript and Node.js.
 Learning C/C++ in school and Python individually and in my work-coop.
 I also have many interests in learning Vue.js and Electron in the future.  
 
-## Current Projects
+## Past Projects
 - **Automation of Excel Certificates with UI**:
   A task given to automatically read CSV Files and XML files and convert them into appriopriate data for excel handling.
 This project's UI was built using customtkinter whilst data handling was openpyxl, pandas and csv in Python Libraries.

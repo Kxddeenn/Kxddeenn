@@ -14,7 +14,7 @@ The project also consisted of uploading files and data to sharepoint automatical
 - **Power Apps and Power Automate**:
     Throughout my Co-op term, I spent a lot on making Power Apps to improve readbility and organization within the company.
   This involved uploading data to Sharepoint lists and further extracting it to specific folders throughout the company's database.
-  This improved my overall development in **Power Px**, a new programming language exclusively for Microsoft Applications. 
+  This improved my overall development in **PowerBi**, a new programming language exclusively for Microsoft Applications. 
 
 ## Learning and Growing
 - Currently exploring Vue.js, improving my Javascript and Node.js skillset.

@@ -27,6 +27,8 @@ The project also consisted of uploading files and data to sharepoint automatical
 
 ## GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kxddeenn&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxddeenn&layout=compact&theme=tokyonight)
 
 

@@ -25,7 +25,9 @@ The project also consisted of uploading files and data to sharepoint automatical
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) - kaden.neild@gmail.com 
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white) [Kaden Neild](https://www.linkedin.com/in/kaden-neild-2a93a0295/)
 
-## GitHub Stats (Will be up soon)
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxddeenn&layout=compact&theme=tokyonight)
 
 
 (Stats will be a little bit off considering that I work in Azure Dev Ops currently)

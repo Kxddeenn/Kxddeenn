@@ -1,7 +1,7 @@
 # Hello
 
-I'm  Kaden Neild, a second year Computer Engineer @ Queen's University with a passion for web development and AI technologies.
-I have currently 1 year of experience in JavaScript and Node.js. 
+I'm  Kaden Neild, a third year Computer Engineer @ Queen's University with a passion for web development and AI technologies.
+I have currently 2 year of experience in JavaScript and Node.js. 
 Learning C/C++ in school and Python individually and in my work-coop.
 I also have many interests in learning Vue.js and Electron in the future.  
 
@@ -26,9 +26,8 @@ The project also consisted of uploading files and data to sharepoint automatical
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white) [Kaden Neild](https://www.linkedin.com/in/kaden-neild-2a93a0295/)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kxddeenn&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxddeenn&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxddeenn&layout=compact&langs_count=6&hide_border=true)
 
 (Stats will be a little bit off considering that I work in Azure Dev Ops currently)
 

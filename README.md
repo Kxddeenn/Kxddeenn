@@ -27,8 +27,7 @@ The project also consisted of uploading files and data to sharepoint automatical
 
 ## My languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxddeenn&layout=compact&theme=tokyonight)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kxddeenn&layout=donut-vertical&theme=shadow_green&hide_border=true&no-bg=true&no-frame=true&show_icons=true&langs_count=8"/>
 
 (Stats will be a little bit off considering that I work in Azure Dev Ops currently)
 
